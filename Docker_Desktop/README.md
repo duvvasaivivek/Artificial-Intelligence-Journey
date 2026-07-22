@@ -38,19 +38,3 @@ Every chapter is designed to focus on:
 - Hands-on practice
 
 The objective is to build a solid understanding of Docker rather than simply memorizing commands.
-
----
-
-## Prerequisites
-
-Before starting this folder, you should have:
-
-- Basic computer knowledge
-- Basic terminal/command line familiarity
-- Basic programming knowledge (recommended)
-
-No prior Docker experience is required.
-
----
-
-This folder is one step in my larger **My Journey in A.I.** roadmap, where I'm documenting and mastering the technologies used in modern AI, Machine Learning, and Software Engineering.
